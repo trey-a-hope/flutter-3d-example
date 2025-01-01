@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_3d_example/demo_page.dart';
+import 'package:flutter_3d_example/presentation/demo_page.dart';
 
 void main() {
   runApp(const MyApp());
